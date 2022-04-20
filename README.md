@@ -1,9 +1,9 @@
 # HP-prodesk-600-G3-Hackintosh opencore EFI  
 An EFI for hackintosh based on th HP prodesk 600 G3 system with the following hardware:  
   
-CPU : Intel® Core™ i5-7500 with Intel® HD Graphics 630 (3.4 GHz base frequency, up to 3.8 GHz, 6 MB cache, 4 cores)  
+CPU : Intel® Core™ i5-7500 with Intel® HD Graphics 630 (3.4 GHz base frequency, up to 3.8 GHz, 6 MB cache, 4 cores) [Should work with any other Kaby lake CPU]
   
-GPU : UHD 630  
+GPU : HD 630  
   
 Memory : 8GB 2400 MHz DDR4  
   
