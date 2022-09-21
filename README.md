@@ -1,5 +1,5 @@
 # HP-prodesk-600-G3-Hackintosh opencore EFI  
-An EFI for hackintosh based on th HP prodesk 600 G3 system with the following hardware:  
+An EFI for hackintosh based on th HP prodesk 600 G3 system with the [following](https://github.com/omriberchman/HP-prodesk-600-G3-Hackintosh-EFI-OpenCore-#hardware) hardware: 
 
 ## IMPORTANT!  
 The EFI is not complete and still missing important things like hardware acceleration and sound, Unfortunatly I wasn't (and still isn't) able to finish this project, if you fixed any of those issues I'd be very glad to accept it into the main branch of this repo, and you'll get an eternal credit and a place in our hearts😉 for helping the HP prodesk hackintosh community.
